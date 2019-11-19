@@ -16,3 +16,5 @@ def Union(first,second):
 
 def Intersection(first,second):
 
+def NotIn(first,second):
+
