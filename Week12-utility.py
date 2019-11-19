@@ -14,3 +14,5 @@ def ScoreFinder(players,scores,who):
 
 def Union(first,second):
 
+def Intersection(first,second):
+
